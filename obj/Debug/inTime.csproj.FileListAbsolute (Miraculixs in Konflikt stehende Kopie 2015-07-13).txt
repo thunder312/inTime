@@ -1,0 +1,4 @@
+C:\Users\Daniel Ertl\Dropbox\Entwicklung\inTime\obj\Debug\inTime.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Ertl\Dropbox\Entwicklung\inTime\obj\Debug\inTime.MainForm.resources
+C:\Users\Daniel Ertl\Dropbox\Entwicklung\inTime\obj\Debug\inTime.csproj.GenerateResource.Cache
+C:\Users\Daniel Ertl\Dropbox\Entwicklung\inTime\obj\Debug\inTime.exe
